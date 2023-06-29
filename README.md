@@ -1,7 +1,7 @@
-### Hi there Wilbert here 👋
+# Hi there Wilbert here 👋
 
 ## About me
-# just a human who currently wishing for getting barchelor degree. 
+### just a human who currently wishing for getting barchelor degree. 
 
 <!--
 **kerbaudisko21/kerbaudisko21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
