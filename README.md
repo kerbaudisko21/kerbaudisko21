@@ -6,6 +6,6 @@ just a human who currently wishing for getting barchelor degree.
 - 🌱 I’m currently learning anything about javascript
 
 
-![Wilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerbaudisko21)]
+![Wilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerbaudisko21)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,php,laravel,nextjs,mongodb,java)](https://skillicons.dev)
