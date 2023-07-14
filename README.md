@@ -60,8 +60,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/kerbaudisko21/kerbaudisko21/output/snake.svg" alt="Snake animation" />
-
-###
